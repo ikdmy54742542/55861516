@@ -1,2 +1,3 @@
+Connection con;
 con=DriverManager.getConnection(url, userName, password);
 hello world
