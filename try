@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 Connection con;
 con=DriverManager.getConnection(url, userName, password);
 hello world
