@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 Class.forName(driverClass);
 Class.forName(driverClass);
 rs.close();
