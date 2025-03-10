@@ -1,4 +1,5 @@
 Class.forName(driverClass);
+Class.forName(driverClass);
 rs.close();
 Class.forName(driverClass);
 Connection con;
