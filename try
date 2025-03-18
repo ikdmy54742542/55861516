@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 test.fetch();
 public static void main(String[] args)
 OracleJdbcTest test = new OracleJdbcTest();
