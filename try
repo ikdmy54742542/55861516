@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 Connection con;
 out.close();
 public void fetch() throws SQLException, IOException
