@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 Connection con;
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 public class OracleJdbcTest
