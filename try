@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 out.close();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 Connection con;
